@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "src/app/api/subjects", "src/types/global.t.d"  ],
   "exclude": ["node_modules"]
 }
